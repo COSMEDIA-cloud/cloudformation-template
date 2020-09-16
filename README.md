@@ -10,7 +10,7 @@ By downloading the yaml file and using it as a CloudFormation startup template, 
 
 ## Usage
 
-<01_VPC_yaml>
+<01_VPC_yaml><br>
 A template for creating network-related resources such as VPCs in the AWS Tokyo region.
 The following resources are created.
 * VPC
