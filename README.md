@@ -19,3 +19,6 @@ The following resources are created.
 * Route table
 * Network ACL
 * Internet gateway
+
+Please refer to the following page for how to use it.
+https://qiita.com/yuish8624/items/2c52607d0a2b6cb9cfab
